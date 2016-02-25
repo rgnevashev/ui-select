@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rgnevashev:angular-ui-select',
-  version: '0.14.3',
+  version: '0.14.9',
   summary: 'AngularJS ui-select',
   git: 'https://github.com/angular-ui/ui-select',
   documentation: 'README.md'
